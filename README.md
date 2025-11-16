@@ -29,6 +29,8 @@ We are a Data analytics team from  Company called Clearpath, hired by Olist, a l
 9. The chart reveals that the Unknown channel leads by a wide margin, contributing the largest portion of total sales other channels like referrals, email, other, and display ads are much lower, indicating that these channels have less impact on the overall sales performance
 10. The previous visual reveals that Car Accessories has the highest ratio of sellers to customers, indicating a highly competitive market where there are many sellers but fewer customers. This may result in intense competition, potentially lowering profit margins for sellers.
 11. Manufacturers likely produce or source products at a lower cost and can price them at a higher margin, leading to higher revenue per order,  Resellers typically rely on lower-cost products, and often face higher competition, leading them to price more competitively, which results in smaller profit margins and lower revenue per order.
+12. Based on the number of orders, amongst all busniess segments, Health and beauty, watches and househould items are the top performers. Olist needs to continue providing support for sellers in those segments to ensure they maintain their performance. As well as attract new sellers from the same categories to meet the customer’s demand.
+13. Lowest performing bueiness segments are Jewlery, perfume, and religious which could be due to issues in the way they display their orders on the website or low customer demand for these categories. Olist needs to focus on these categories and by providing extra support to boost their performance such as improving how products are listed on the website, and utilizing SEO to increase traffic to those specific segments. 
 
 
 ### Recommendations
@@ -58,6 +60,11 @@ We are a Data analytics team from  Company called Clearpath, hired by Olist, a l
 25. Olist could also help sellers stand out through **better visibility** in search results
 26. Offering **exclusive marketing** opportunities
 27. Encourage Resellers to Sell **High-Value** Products
+28. **Maintain Strong Seller Support** in top performing Segments
+29.  Attract **new sellers** from top performing segments.
+30.  Imporve how **products are listed** on the website.
+31.  Provide **Extra Seller Support** in lower performing Segments
+32.  Utilize **SEO** to increase website traffic.
 
 ### Limitations
 The data involves **inconsistent relationships** between the various datasets. Specifically, some tables lacked **clear common keys** or had **missing values** in key columns, which made it challenging to link them accurately. This inconsistency impacted the ability to **aggregate** and **analyze** the data across multiple dimensions. 
